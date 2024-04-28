@@ -29,7 +29,7 @@ Here are some recent projects I've been working on:
 How to Reach Me
 I'm always open to discussions and collaborations. If you're interested in talking more about technology or working together on projects, feel free to reach out to me via:
 
-- Discord: :adris#8135:
+- Discord: adris#8135
 - Twitter: https://twitter.com/ryam66755129
 
 Thank you for visiting my GitHub profile. Let's connect and collaborate!
