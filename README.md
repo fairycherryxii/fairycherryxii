@@ -3,7 +3,7 @@ Hello, I'm Adris! 👋
 Welcome to my GitHub profile! I'm excited to share information about myself and the projects I'm working on.
 
 About Me
-I'm a game developer from Indonesia :indonesia: with a special interest in web development and blockchain technologies,
+I'm a game developer from Indonesia with a special interest in web development and blockchain technologies,
 I enjoy exploring new technologies and experimenting with innovative concepts in the minecraft world.
 
 - 🌱 Currently, I'm learning and enhancing my skills in:
@@ -29,7 +29,7 @@ Here are some recent projects I've been working on:
 How to Reach Me
 I'm always open to discussions and collaborations. If you're interested in talking more about technology or working together on projects, feel free to reach out to me via:
 
-- Discord: adris#8135
-- Twitter: (https://twitter.com/your_twitter_handle)
+- Discord: :adris#8135:
+- Twitter: https://twitter.com/ryam66755129
 
 Thank you for visiting my GitHub profile. Let's connect and collaborate!
