@@ -25,6 +25,7 @@ Here are some recent projects I've been working on:
    - ZetNetwork
    - Hzet
    - Deluzination
+   - KaioMC
 
 How to Reach Me
 I'm always open to discussions and collaborations. If you're interested in talking more about technology or working together on projects, feel free to reach out to me via:
